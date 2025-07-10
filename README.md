@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Calvin
-- 👀 I’m interested in python/JavaScript/HTML
-- 🌱 I’m currently learning Flutter 
-- 💞️ I’m looking to collaborate on app development
-- 📫 How to reach me , discord: cornersidelol #0528 , WhatsApp: 64686989
+Hi 👋 My name is Calvin Sze
+===========================
 
-<!---
-cornersidelol/cornersidelol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+App and web Developer
+---------------------
+
+I've been learning code for over 3 years and now seeking for a job
+
+* 🌍  I'm based in Hong Kong
+* ✉️  You can contact me at [calvinsze8888@gmail.com](mailto:calvinsze8888@gmail.com)
+* 🧠  I'm learning building AI tools
+* 🤝  I'm open to collaborating on any projects related to AI and its real life application with apps
